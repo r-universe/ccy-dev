@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "LongDat"]
-	path = LongDat
-	url = https://github.com/ccy-dev/longdat
-	shallow = true
-	registered = true
